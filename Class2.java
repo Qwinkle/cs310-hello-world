@@ -1,14 +1,18 @@
-public class Class2 {
-    private void f1() {
-        //Placeholder method (v1.0)
+/**
+ *
+ * @Christian Price(qwinkle)
+ */
 
+public class Class2 {
+
+    private void f1() {
+        // v1.0
     }
     private void f2() {
-        //Placeholder method (v1.0)
-        
+        // v2.0
     }
     private void f3() {
-        //Placeholder method (v1.0)
-        
+        // v3.0
     }
+
 }
